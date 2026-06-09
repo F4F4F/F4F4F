@@ -76,15 +76,6 @@ I enjoy building software, learning new technologies, and strengthening my engin
 * 🏆 Competitive Programming solutions
 * 📚 Learning repositories and experiments
 * 🚀 Future open-source contributions
-
----
-
-## Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=F4F4F&theme=github-dark" />
-</p>
-
 ---
 
 ## Connect With Me
